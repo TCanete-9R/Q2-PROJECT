@@ -1,0 +1,179 @@
+h1 {
+	text-align: center;
+	font-family: Papyrus;
+	font-size:60px;
+	color: #abdda4;
+}
+
+h2 {
+	text-align: center;
+	font-family: Arial;
+	color: white;
+	font-size: 20px;
+}
+
+h3 {
+	font-family: Papyrus;
+	font-size: 40px;
+	font-weight: bold;
+}
+
+.navbar-brand img {
+	width: 60px;
+	height: 30px;
+
+}
+
+h4 {
+	font-family: Papyrus;
+	font-size: 30px;
+}
+
+h5 {
+	font-family: Papyrus;
+	font-size: 20px;
+	font-weight: bold;
+	color: #abdda4;
+}
+
+ul {
+	font-family: Arial;
+	color: white;
+	font-size: 15;
+}
+
+ol {
+	font-family: Arial;
+	color: white;
+	font-size: 15;
+}
+body {
+	background-image: url("https://t3.ftcdn.net/jpg/02/52/12/40/360_F_252124067_aCtp9ZD934RboKmjJzkXiwYDL7XkNjpn.jpg ");
+	background-size: cover;
+}
+
+.carousel-inner img {
+  margin: auto;
+  height: 500px;
+}
+
+.row {
+    background-color: #f9f2c3;
+    font-family: Papyrus;
+    padding: 15px;
+    border-radius: 10px;
+    
+    font-weight: bold;
+    font-size: 25px;
+    color: black;
+}
+
+.card-text {
+	font-family: Arial;
+    font-size: 20px;
+    font-weight: normal;
+    
+}
+
+.card {
+    margin: 0 auto;
+    width: 300px;
+}
+
+.card img {
+    border-radius: 5px;
+}
+
+.food-image {
+	max-width: 390px;
+	border-radius: 8px;
+	margin-right: 20px;
+}
+
+.recipe {
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 20px;
+  border-radius: 8px;
+  max-width: 1200px;
+  margin: 20px auto;
+}
+
+.recipe-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.about {
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 20px;
+  border-radius: 8px;
+  max-width: 800px;
+  margin: 20px auto;
+}
+
+.about-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.about-text {
+	color: white;
+}
+
+.offer {
+	font-size: 30px;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  font-size: 15px;
+  color: white;
+  text-align: center;
+}
+
+.footer-cat {
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  font-size: 15px;
+  color: white;
+  text-align: center;
+
+}
+
+.form-container {
+	max-width: 800px;
+	margin: 10px auto;
+	background: rgba(0, 0, 0, 0.5);
+	padding: 10px;
+	border-radius: 10px;
+}
+.form-container {
+	text-align: center;
+	color: white;
+}
+.form-container label {
+	display: block;
+	margin: 10px;
+	font-weight: bold;
+}
+.form-container input,
+.form-container textarea,
+.form-container button {
+	width: 100%;
+	padding: 10px;
+	margin-bottom: 20px;
+	border-radius: 5px;
+}
+.form-container button {
+	background-color: #2b83ba;
+	color: white;
+	border: none;
+	cursor: pointer;
+	font-size: 20px;
+}
+.form-container button:hover {
+}
